@@ -1,0 +1,13 @@
+C:\Users\Magdalena\Desktop\PR\personal_registry\bin\Debug\netcoreapp3.1\personal_registry.exe
+C:\Users\Magdalena\Desktop\PR\personal_registry\bin\Debug\netcoreapp3.1\personal_registry.deps.json
+C:\Users\Magdalena\Desktop\PR\personal_registry\bin\Debug\netcoreapp3.1\personal_registry.runtimeconfig.json
+C:\Users\Magdalena\Desktop\PR\personal_registry\bin\Debug\netcoreapp3.1\personal_registry.runtimeconfig.dev.json
+C:\Users\Magdalena\Desktop\PR\personal_registry\bin\Debug\netcoreapp3.1\personal_registry.dll
+C:\Users\Magdalena\Desktop\PR\personal_registry\bin\Debug\netcoreapp3.1\personal_registry.pdb
+C:\Users\Magdalena\Desktop\PR\personal_registry\obj\Debug\netcoreapp3.1\personal_registry.csprojAssemblyReference.cache
+C:\Users\Magdalena\Desktop\PR\personal_registry\obj\Debug\netcoreapp3.1\personal_registry.AssemblyInfoInputs.cache
+C:\Users\Magdalena\Desktop\PR\personal_registry\obj\Debug\netcoreapp3.1\personal_registry.AssemblyInfo.cs
+C:\Users\Magdalena\Desktop\PR\personal_registry\obj\Debug\netcoreapp3.1\personal_registry.csproj.CoreCompileInputs.cache
+C:\Users\Magdalena\Desktop\PR\personal_registry\obj\Debug\netcoreapp3.1\personal_registry.dll
+C:\Users\Magdalena\Desktop\PR\personal_registry\obj\Debug\netcoreapp3.1\personal_registry.pdb
+C:\Users\Magdalena\Desktop\PR\personal_registry\obj\Debug\netcoreapp3.1\personal_registry.genruntimeconfig.cache
